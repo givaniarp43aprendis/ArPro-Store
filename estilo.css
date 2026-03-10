@@ -145,7 +145,7 @@ header nav ul li:hover::after{
     margin-bottom: 10px;
 }
 .product-name{
-    font-size: 4rem;
+    font-size: 3rem;
     font-family:"Orbitron", sans-serif; 
     line-height: 1.1;
     margin-bottom: 20px;
